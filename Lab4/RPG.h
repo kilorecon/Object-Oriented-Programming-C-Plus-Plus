@@ -1,5 +1,5 @@
 #ifndef RPG_H
-#define RPH_H
+#define RPG_H
 #include <string>
 #include <iostream>
 #include <cstdio>
